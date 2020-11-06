@@ -1,0 +1,20 @@
+{
+  "name": "progress-of-the-year",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "homepage": "https://github.com/JasonHK/Progress-of-the-Year#readme",
+  "bugs": {
+    "url": "https://github.com/JasonHK/Progress-of-the-Year/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/Progress-of-the-Year.git"
+  },
+  "license": "AGPL-3.0",
+  "author": "Jason Kwok <foss@jasonhk.email> (https://jasonhk.net)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
