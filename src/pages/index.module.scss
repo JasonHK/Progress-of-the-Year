@@ -1,0 +1,28 @@
+.root
+{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main
+{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.time
+{
+    font-size: clamp(14px, 10vw, 120px);
+}
+
+.menu
+{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}
